@@ -27,6 +27,7 @@ url: ""
 
 github:
   username: openrobotics # change to your GitHub username
+  repo: reps
 
 twitter:
   username: openroboticsorg # change to your Twitter username
