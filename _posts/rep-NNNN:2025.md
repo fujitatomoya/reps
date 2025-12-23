@@ -2,7 +2,7 @@
 layout: post
 REP: NNNN
 title: ROS 2 Log Command Line Interface
-author: Tomoya Fujita <tomoya.fujita825@gmail.com>, Fumiya Ohnishi <fumiyaonishi1016@gmail.com>
+author: Tomoya Fujita <tomoya.fujita825@gmail.com>, Fumiya Ohnishi <fumiya-onishi@keio.jp>
 PMC Sponsor: Michael Carroll <mjcarroll@intrinsic.ai>
 PMCs: ROS
 tag: Draft
